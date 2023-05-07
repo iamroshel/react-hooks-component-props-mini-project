@@ -1,4 +1,4 @@
-# Putting it All Together: Components and Props
+# Putting it All Together: Components and Props c
 
 ## Learning Goals
 
